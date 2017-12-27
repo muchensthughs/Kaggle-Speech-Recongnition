@@ -1,0 +1,11 @@
+test/
+train/
+*.tar.gz
+*.json
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.7z
+link_to_gcp_credits_form.txt
+
