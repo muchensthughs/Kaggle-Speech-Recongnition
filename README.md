@@ -1,3 +1,3 @@
 # Kaggle Speech Recongnition
 
-Mu Chen
+This is for Google Tensorflow Speech Recognition Challenge hosted on Kaggle
